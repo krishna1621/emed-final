@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//krishna1621.github.io/emed-final/static/css/main.7f48a775.css",
+    "main.js": "//krishna1621.github.io/emed-final/static/js/main.e575f00d.js",
+    "index.html": "//krishna1621.github.io/emed-final/index.html",
+    "main.7f48a775.css.map": "//krishna1621.github.io/emed-final/static/css/main.7f48a775.css.map",
+    "main.e575f00d.js.map": "//krishna1621.github.io/emed-final/static/js/main.e575f00d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f48a775.css",
+    "static/js/main.e575f00d.js"
+  ]
+}
